@@ -1,0 +1,3 @@
+/home/esoman/c++code/c++/K-means/build/CMakeFiles/rebuild_cache.dir
+/home/esoman/c++code/c++/K-means/build/CMakeFiles/edit_cache.dir
+/home/esoman/c++code/c++/K-means/build/CMakeFiles/kmeans.dir

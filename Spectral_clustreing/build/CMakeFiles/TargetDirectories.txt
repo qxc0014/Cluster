@@ -1,0 +1,3 @@
+/home/esoman/c++code/c++/Spectral_clustreing/build/CMakeFiles/edit_cache.dir
+/home/esoman/c++code/c++/Spectral_clustreing/build/CMakeFiles/rebuild_cache.dir
+/home/esoman/c++code/c++/Spectral_clustreing/build/CMakeFiles/Spectral_clustreing.dir
